@@ -1,9 +1,9 @@
-# Proyek Akhir Sistem Mikrokontroller
+# Proyek Akhir Web Programming II
 <ul>
    <li>Nama : Agus Setiawan</li>
    <li>NPM : 21552011225</li>
    <li>Kelas : TIF RM 22 CID</li>
-  <li>Mata Kuliah : Web Programming 2</li>
+  <li>Mata Kuliah : Web Programming II</li>
   <li>Dosen Pengampu : Adib, S.T., M.Kom</a></li>
 </ul>
 
